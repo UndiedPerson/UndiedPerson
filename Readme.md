@@ -18,8 +18,8 @@
 
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/NTLite-003399?logo=windows&logoColor=white" />
+  <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" />
+  [<img src="https://www.google.co.jp/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fntlite.com&psig=AOvVaw0SDyt4hXLT0aKs2F-lni5J&ust=1747922784257000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjCqPjdtI0DFQAAAAAdAAAAABAE"
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
   <br/>
