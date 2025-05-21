@@ -38,6 +38,10 @@
 </p>
 
 ---
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=UndiedPerson&theme=gruvbox&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 📊 GitHub Stats
 
