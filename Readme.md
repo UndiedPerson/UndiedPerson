@@ -24,7 +24,7 @@
   <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" width="150" height="150"/>
   <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="150" height="150"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="150" height="150"/>
-  <img src="https://img.icons8.com/?size=100&id=0FC8MqL9J16f&format=png&color=000000" width="150" height="150"/>
+<!--   <img src="https://img.icons8.com/?size=100&id=0FC8MqL9J16f&format=png&color=000000" width="150" height="150"/> -->
   <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="150" height="150"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="150" height="150""/>
   <img src= "https://img.icons8.com/?size=100&id=8kgqBk4Qgj9P&format=png&color=000000" width="150" height="150"/>
@@ -50,6 +50,6 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:undiedperson@gmail.com"><img src= "https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" /></a>
-  <a href="https://linkedin.com/in/thanakorn-kasaiklang-4a63472a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:undiedperson@gmail.com"><img src= "https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="150" height="150"/></a>
+  <a href="https://linkedin.com/in/thanakorn-kasaiklang-4a63472a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="150" height="150"/></a>
 </p>
