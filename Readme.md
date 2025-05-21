@@ -18,30 +18,24 @@
 
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" width="150" height="150"/>
-  <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" class="fixed-size"/>
-  <img src="https://github.com/user-attachments/assets/23278218-9bd0-47b9-97bb-d631375bc0e8"class="fixed-size">
+  <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" width="150" height="150"/>
+  <img src="https://github.com/user-attachments/assets/23278218-9bd0-47b9-97bb-d631375bc0e8" width="150" height="150"">
   <br/>
-  <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" class="fixed-size"/>
-  <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" class="fixed-size"/>
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" class="fixed-size"/>
-  <img src="https://img.icons8.com/?size=100&id=0FC8MqL9J16f&format=png&color=000000" class="fixed-size"/>
-  <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000"class="fixed-size"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" class="fixed-size"/>
-  <img src= "https://img.icons8.com/?size=100&id=8kgqBk4Qgj9P&format=png&color=000000" class="fixed-size"/>
+  <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" width="150" height="150"/>
+  <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="150" height="150"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="150" height="150"/>
+  <img src="https://img.icons8.com/?size=100&id=0FC8MqL9J16f&format=png&color=000000" width="150" height="150"/>
+  <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="150" height="150"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="150" height="150""/>
+  <img src= "https://img.icons8.com/?size=100&id=8kgqBk4Qgj9P&format=png&color=000000" width="150" height="150"/>
 <!--   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> -->
 <!--   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" /> -->
   <br/>
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" class="fixed-size"/>
-  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" class="fixed-size"/>
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" class="fixed-size"/>
-  <img src="https://cdn.brandfetch.io/iddQCDuFIW/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1744345016328" class="fixed-size"/>
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="150" height="150"/>
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="150" height="150"/>
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="150" height="150"/>
+  <img src="https://cdn.brandfetch.io/iddQCDuFIW/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1744345016328" width="150" height="150"/>
 </p>
-
-.fixed-size{
-width:200px;
-height:200px;
-object-fit:cover;
-}
 
 ---
 
