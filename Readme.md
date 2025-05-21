@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal full-stack & security-related projects**
 
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **undiedperson@gmail.com**
 
 ---
 
