@@ -41,7 +41,7 @@
 ## 🏆 GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UndiedPerson&theme=gruvbox&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?UndiedPerson&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedPerson&layout=compact&theme=gruvbox)
 
 
 ### 📊 GitHub Stats
