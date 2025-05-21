@@ -19,8 +19,7 @@
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
   <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" />
-
-  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
+  
   <br/>
   <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000/">
   <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000"/>
