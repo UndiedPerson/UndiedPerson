@@ -2,7 +2,7 @@
 <h3 align="center">Back-End & Full Stack Dev (Practice) | Cyber Security Learner | Modifier</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanakornkasaiklang&label=Profile%20views&color=0e75b6&style=flat" alt="thanakornkasaiklang" />
+  <img src="https://komarev.com/ghpvc/?username=UndiedPerson&label=Profile%20views&color=0e75b6&style=flat" alt="UndiedPerson" />
 </p>
 
 - 🔭 I’m currently working on **personal full-stack & security-related projects**
