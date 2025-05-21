@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **personal full-stack & security-related projects**  
+- 🔭 I’m currently working on **personal full-stack & security-related & modified projects**  
 - 📫 Reach me at: **undiedperson@gmail.com**
 
 ---
