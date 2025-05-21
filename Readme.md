@@ -25,7 +25,7 @@
   <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="150" height="150"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="150" height="150"/>
 <!--   <img src="https://img.icons8.com/?size=100&id=0FC8MqL9J16f&format=png&color=000000" width="150" height="150"/> -->
-  <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="150" height="150"/>
+  <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="180" height="150"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="150" height="150""/>
   <img src= "https://img.icons8.com/?size=100&id=8kgqBk4Qgj9P&format=png&color=000000" width="150" height="150"/>
 <!--   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> -->
