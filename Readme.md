@@ -26,7 +26,7 @@
   <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000/">
   <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=0FC8MqL9J16f&format=png&color=000000" />
+<!--   <img src="https://img.icons8.com/?size=100&id=0FC8MqL9J16f&format=png&color=000000" /> -->
   <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
