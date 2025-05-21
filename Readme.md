@@ -37,11 +37,11 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanakornkasaiklang&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UndiedPerson&show_icons=true&theme=radical" alt="stats"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanakornkasaiklang&theme=radical" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UndiedPerson&theme=radical" alt="streak"/>
 </p>
 
 ---
