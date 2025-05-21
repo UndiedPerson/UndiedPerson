@@ -51,5 +51,5 @@
 
 <p align="center">
   <a href="mailto:undiedperson@gmail.com"><img src= "https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="150" height="150"/></a>
-  <a href="https://linkedin.com/in/thanakorn-kasaiklang-4a63472a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="150" height="150"/></a>
+  <a href="https://linkedin.com/in/thanakorn-kasaiklang-4a63472a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="150" height="180"/></a>
 </p>
