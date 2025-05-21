@@ -34,6 +34,7 @@
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" />
   <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000"/>
+  <img src="https://brandfetch.com/ntlite.com?view=library&library=default&collection=logos&asset=idl2TiuADH&utm_source=https%253A%252F%252Fbrandfetch.com%252Fntlite.com&utm_medium=copyAction&utm_campaign=brandPageReferral">
 </p>
 
 ---
