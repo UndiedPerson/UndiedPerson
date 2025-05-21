@@ -30,8 +30,8 @@
   <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
   <img src= "https://img.icons8.com/?size=100&id=8kgqBk4Qgj9P&format=png&color=000000"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" /> -->
   <br/>
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" />
