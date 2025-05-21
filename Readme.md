@@ -17,7 +17,7 @@
 ### ⚙️ Languages, Tools & Technologies
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
+  <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" width="150" height="150"/>
   <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" class="fixed-size"/>
   <img src="https://github.com/user-attachments/assets/23278218-9bd0-47b9-97bb-d631375bc0e8"class="fixed-size">
   <br/>
