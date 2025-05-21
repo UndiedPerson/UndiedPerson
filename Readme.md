@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thanakorn Kasaiklang</h1>
+![image](https://github.com/user-attachments/assets/59ccd258-607c-4678-b4bc-26b3caf124a0)![image](https://github.com/user-attachments/assets/23278218-9bd0-47b9-97bb-d631375bc0e8)<h1 align="center">Hi 👋, I'm Thanakorn Kasaiklang</h1>
 <h3 align="center">🔧 Back-End & Full Stack Dev (Practice) | 🛡️ Cyber Security Learner | 🛠️ System Modifier</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
   <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" />
   <img src="https://cdn.brandfetch.io/iddQCDuFIW/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1744345016328">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" />
+  <img src="https://https://www.flaticon.com/free-icon/xampp_5548401?term=xampp&page=1&position=1&origin=search&related_id=5548401" />
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000/">
   <br/>
   <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000/">
