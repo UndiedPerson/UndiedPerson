@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
   <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" />
-  <img src="https://www.google.co.jp/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fntlite.com&psig=AOvVaw0SDyt4hXLT0aKs2F-lni5J&ust=1747922784257000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjCqPjdtI0DFQAAAAAdAAAAABAE">
+  <img src="https://cdn.brandfetch.io/iddQCDuFIW/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1744345016328">
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" />
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000/>
   <br/>
