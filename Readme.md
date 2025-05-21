@@ -17,7 +17,7 @@
 ### ⚙️ Languages, Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" />
+  <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/NTLite-003399?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" />
