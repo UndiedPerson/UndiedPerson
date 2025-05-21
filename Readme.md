@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 </p>
@@ -52,5 +52,5 @@
 
 <p align="center">
   <a href="mailto:undiedperson@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" /></a>
-<!--   <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a> -->
+  <a href="https://linkedin.com/in/thanakorn-kasaiklang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
