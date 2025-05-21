@@ -20,12 +20,12 @@
   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
   <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" />
   <img src="https://cdn.brandfetch.io/iddQCDuFIW/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1744345016328">
-  <img src="https://https://www.flaticon.com/free-icon/xampp_5548401?term=xampp&page=1&origin=search&related_id=5548401" />
+  <img src="https://https://www.flaticon.com/free-icon/xampp_5548401?term=xampp&page=1&origin=search&related_id=5548401"/>
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000/">
   <br/>
   <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000/">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
