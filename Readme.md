@@ -20,7 +20,7 @@
   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
   <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" />
   <img src="https://cdn.brandfetch.io/iddQCDuFIW/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1744345016328">
-  <img src="https://https://www.flaticon.com/free-icon/xampp_5548401?term=xampp&page=1&position=1&origin=search&related_id=5548401" />
+  <img src="https://https://www.flaticon.com/free-icon/xampp_5548401?term=xampp&page=1&origin=search&related_id=5548401" />
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000/">
   <br/>
   <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000/">
